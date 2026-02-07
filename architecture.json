@@ -1,0 +1,161 @@
+{
+  "book_id": "indigenous-resurgence-symbolist-gender-dynamics",
+  "title": "The Still Eye's Reflection",
+  "tagline": "When the sacred mountain weeps, a young listener must confront the violent silence of men to heal the songs of women.",
+  "target_words": 70000,
+  "actual_words": 78563,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Intergenerational Feminine Knowledge vs. Extractive Masculinity",
+    "The Land as a Gendered Body Under Siege",
+    "Ritual Objects as Vessels of Ancestral Power",
+    "Listening as a Radical, Gendered Act of Resistance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bone Comb",
+      "words": 3270
+    },
+    {
+      "ch": 2,
+      "title": "The River's Thread",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Mountain's Anger",
+      "words": 3150
+    },
+    {
+      "ch": 4,
+      "title": "The Machine on the Shore",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "The Man with the Silent Eyes",
+      "words": 3400
+    },
+    {
+      "ch": 6,
+      "title": "Grandmother's Map in Bark",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "The City's Echo in Uncle's Bones",
+      "words": 3250
+    },
+    {
+      "ch": 8,
+      "title": "Feeding Stones, Empty Pots",
+      "words": 3180
+    },
+    {
+      "ch": 9,
+      "title": "The Pouch of Focused Silence",
+      "words": 3350
+    },
+    {
+      "ch": 10,
+      "title": "The Gunshot's Punctuation",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Eye, Shattered",
+      "words": 3450
+    },
+    {
+      "ch": 12,
+      "title": "A Conversation of Roots",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "Whispers in the Hemlock",
+      "words": 3150
+    },
+    {
+      "ch": 14,
+      "title": "The Weave of Protection",
+      "words": 3300
+    },
+    {
+      "ch": 15,
+      "title": "Metal in the Heart-Place",
+      "words": 3400
+    },
+    {
+      "ch": 16,
+      "title": "The Choice of the Old Women",
+      "words": 3250
+    },
+    {
+      "ch": 17,
+      "title": "Mother's Smoke, Daughter's Path",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "The Trail That Listens Back",
+      "words": 3350
+    },
+    {
+      "ch": 19,
+      "title": "Confusing the Shape That Walks",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "The Song Beneath the Wrongness",
+      "words": 3450
+    },
+    {
+      "ch": 21,
+      "title": "K'acha's Last Reflection",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "Tendon to the World's Bone",
+      "words": 3150
+    },
+    {
+      "ch": 23,
+      "title": "Resurgence of the Deep Hum",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "Not a Pantry, A Conversation",
+      "words": 3273
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern character receives a 'useless' ancestral object (like the bone comb) and must decipher its warning.",
+      "Create a dialogue between a person who 'listens' to the land and a person who sees it only as resource. Do they find common ground?",
+      "Imagine a ritual where women use everyday items (cakes, woven patterns, hearth stones) to perform a protective act against an unseen corporate threat.",
+      "Write from the perspective of the mountain (K'acha) as it experiences the intrusion of the machine and the approach of the listener."
+    ],
+    "technical": [
+      "Build an interactive map where users can 'listen' to different points on a landscape, each triggering a fragment of story, song, or environmental data.",
+      "Create a text generator that weaves a narrative by combining prompts about 'ritual objects', 'environmental threats', and 'intergenerational dialogue'.",
+      "Design a web experience where scrolling mimics Kaya's journey uphill, with the background audio shifting from river sounds to a distorted mechanical hum."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Ursula K. Le Guin",
+      "Linda Hogan",
+      "Mona Awad"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman, her face a mask of solemn focus, gently cradles a weeping obsidian mirror that reflects not her own visage but the scarred face of a sacred mountain, [Detailed Scene & Context: she kneels within a circle of ancient, carved ritual bowls filled with dark water and luminous crushed minerals, deep inside a cavern where stone formations resemble both female anatomy and mining wounds, the air thick with the tension between silent male figures of industry watching from the shadows and the ethereal, singing presences of ancestral women woven from light and moss], [Artistic Style & Medium: in the atmospheric and symbolist style of Remedios Varo and Zdzisław Beksiński, blending meticulous magical realism with haunting surrealism, rendered in oil painting with impasto texture and glazing], [Composition & Camera: book cover framing, an intimate and centered composition with a dramatic low-angle that elevates the listener, creating a powerful vertical divide between the subterranean feminine sanctuary and the oppressive masculine structures above], [Lighting & Color Palette: dramatic chiaroscuro lighting where the only illumination emanates from the reflective bowls and the ancestral spirits, casting deep shadows, color palette of bruised violets, volcanic blacks, deep earth umbers, and ethereal luminescent blues and golds], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
